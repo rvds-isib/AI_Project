@@ -141,7 +141,7 @@ def beam_search(start, end, beam_width):
 def a_star(start, end):
     """
     Sélectionne la fonction d'évaluation la plus faible parmis tous les nœuds enfants disponibles
-    La fonction d'évaluation est égale à la somme du temps de transit
+    La fonction d'évaluation est égale à la somme du temps de transit et de l'heuristique
     :return : Le chemin correct entre le serveur de départ et d'arrivée,
               Le temps de transit de ce chemin en ms
               Le nombre d'itérations
