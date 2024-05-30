@@ -1,4 +1,4 @@
-AI_Project
+#AI_Project
 University Project for AI Class. This project regroups different algorithms for various scenarios.
 
 *Research Algorithm
