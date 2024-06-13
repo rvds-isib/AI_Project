@@ -9,6 +9,6 @@ University Project for AI Class. This project regroups different algorithms for 
   - Implements the game **Quoridor**. Player 1 can play against an AI that uses the MinMax algorithm with **alpha-beta pruning**.
   - Offers different difficulty levels to the player based on the depth of the algorithm.
 
-* **Constraint Satisfaction**
+* **Constraint Algorithm**
   - Creates a **Team Builder** for the game **Overwatch**.
   - Allows the player to create the best possible team around their personal favorite character and the selected map.
